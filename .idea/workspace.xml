@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5d7be16-0a4e-495e-b3f4-124cf1992213" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1scVW0ZVqw1UmhFKWuGWuvL2SGo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../vue.js" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\projects\p11\images\teammates" />
+      <recent name="C:\xampp\htdocs\projects\p11\images\mojavez" />
+      <recent name="C:\xampp\htdocs\projects\p11\images\footer" />
+      <recent name="C:\xampp\htdocs\projects\p11\images\brands" />
+      <recent name="C:\xampp\htdocs\projects\p11\images\productions" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5d7be16-0a4e-495e-b3f4-124cf1992213" name="Default Changelist" comment="" />
+      <created>1621171893318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621171893318</updated>
+      <workItem from="1621171894536" duration="17598000" />
+      <workItem from="1621228754122" duration="11017000" />
+      <workItem from="1621334948798" duration="7047000" />
+      <workItem from="1621355861636" duration="2637000" />
+      <workItem from="1621397806968" duration="80000" />
+      <workItem from="1621405885161" duration="19259000" />
+      <workItem from="1621438566524" duration="8895000" />
+      <workItem from="1621529955184" duration="155000" />
+      <workItem from="1621530114294" duration="10000" />
+      <workItem from="1623583079458" duration="890000" />
+      <workItem from="1623737201720" duration="27000" />
+      <workItem from="1627037332660" duration="906000" />
+      <workItem from="1627229165085" duration="9170000" />
+      <workItem from="1627661124651" duration="11385000" />
+      <workItem from="1627718887727" duration="22408000" />
+      <workItem from="1627803076989" duration="4874000" />
+      <workItem from="1643998315505" duration="2176000" />
+      <workItem from="1644000640484" duration="1531000" />
+      <workItem from="1644084323574" duration="1162000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

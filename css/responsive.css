@@ -1,0 +1,25 @@
+@media screen and (max-width: 420px){
+    .header-section-texts-btns{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    .about-section-texts span:nth-child(4){
+        width: 100%;
+        display: flex;
+        justify-content:center;
+        align-items: center;
+        flex-direction: column;
+    }
+}
+@media screen and (min-width: 420px) and (max-width: 990px){
+    .header-section-texts-btns{
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+}
